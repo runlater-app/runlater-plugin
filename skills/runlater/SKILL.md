@@ -11,8 +11,8 @@ RunLater sends an HTTP request to a public URL at an exact time or on a cron sch
 
 | The person wants | Tool |
 |---|---|
-| A request sent once at a set time | `schedule_request` with `run_at` (ISO 8601) |
-| A request sent repeatedly | `schedule_request` with `cron` and `timezone` |
+| A GET sent once or repeatedly | `schedule_get_request` with `run_at` (ISO 8601) or `cron` and `timezone` |
+| A POST, PUT, PATCH or DELETE sent once or repeatedly | `schedule_send_request` with `run_at` or `cron` and `timezone` |
 | To see what is scheduled | `list_schedules` |
 | To know whether a request worked | `get_schedule` (recent runs with status code, duration and response preview) |
 | To try a request right now | `run_now` |

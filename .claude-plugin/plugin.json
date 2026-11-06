@@ -1,7 +1,7 @@
 {
   "name": "runlater",
   "displayName": "RunLater",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Call any URL at an exact time or on a cron schedule from your coding agent, with retries and a log of every run, through the RunLater MCP server.",
   "author": {
     "name": "Great Work LLC",

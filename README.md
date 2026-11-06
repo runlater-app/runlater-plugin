@@ -36,7 +36,7 @@ Then run `/mcp` and sign in. [Setup for claude.ai, Cursor, VS Code, Codex and Wi
 
 ## Tools
 
-`schedule_request`, `list_schedules`, `get_schedule`, `run_now`, `pause_schedule`, `resume_schedule`, `delete_schedule`, `account_status`
+`schedule_get_request`, `schedule_send_request`, `list_schedules`, `get_schedule`, `run_now`, `pause_schedule`, `resume_schedule`, `delete_schedule`, `account_status`
 
 ## Pricing
 
