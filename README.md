@@ -13,6 +13,12 @@ Claude Code plugin:
 /plugin install runlater@runlater
 ```
 
+Agent skill only:
+
+```
+npx skills add runlater-app/runlater-plugin
+```
+
 Or add only the MCP server:
 
 ```
