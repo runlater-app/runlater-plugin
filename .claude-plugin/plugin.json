@@ -1,0 +1,22 @@
+{
+  "name": "runlater",
+  "displayName": "RunLater",
+  "version": "1.0.0",
+  "description": "Call any URL at an exact time or on a cron schedule from your coding agent, with retries and a log of every run, through the RunLater MCP server.",
+  "author": {
+    "name": "Great Work LLC",
+    "email": "hello@greatwork.company",
+    "url": "https://runlater.app"
+  },
+  "homepage": "https://runlater.app",
+  "repository": "https://github.com/runlater-app/runlater-plugin",
+  "license": "MIT",
+  "keywords": [
+    "cron",
+    "scheduler",
+    "webhooks",
+    "scheduled jobs",
+    "mcp",
+    "claude code"
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "name": "runlater",
+  "owner": {
+    "name": "RunLater",
+    "url": "https://runlater.app"
+  },
+  "metadata": {
+    "description": "Schedule HTTP requests from your coding agent: the RunLater MCP server plus an agent skill."
+  },
+  "plugins": [
+    {
+      "name": "runlater",
+      "source": "./",
+      "description": "Call a URL at an exact time or on a cron schedule, pause or run it, and read the logs."
+    }
+  ]
+}
