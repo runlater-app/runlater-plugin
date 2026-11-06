@@ -25,6 +25,8 @@ Or add only the MCP server:
 claude mcp add --transport http --scope user runlater https://runlater.app/api/mcp
 ```
 
+[![Add to Replit](https://replit.com/badge?caption=Add%20to%20Replit)](https://replit.com/integrations?mcp=eyJkaXNwbGF5TmFtZSI6IlJ1bkxhdGVyIiwiYmFzZVVybCI6Imh0dHBzOi8vcnVubGF0ZXIuYXBwL2FwaS9tY3AifQ==)
+
 Then run `/mcp` and sign in. [Setup for claude.ai, Cursor, VS Code, Codex and Windsurf](https://runlater.app/docs/mcp).
 
 ## What you can ask
