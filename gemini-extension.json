@@ -1,6 +1,6 @@
 {
   "name": "runlater",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "Schedule HTTP requests from Gemini CLI: once at an exact time or on cron, with retries and run logs.",
   "mcpServers": {
     "runlater": {
